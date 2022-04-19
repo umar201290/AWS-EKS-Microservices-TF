@@ -6,7 +6,7 @@ Currently it does not need any Variable
 
 ## Deploying the Infra and App
 
-#terraform init
-#terraform validate
-#terraform plan
-#terraform apply
+# terraform init
+# terraform validate
+# terraform plan
+# terraform apply
